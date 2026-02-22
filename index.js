@@ -1,1 +1,1 @@
-module.exports = { version: "1.0.0", name: "utils" };
+module.exports = { version: "1.0.0", name: "utils", release: true };
